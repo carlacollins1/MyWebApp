@@ -1,0 +1,101 @@
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.runtime.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.endpoints.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.exe
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.deps.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.runtimeconfig.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.dll
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.pdb
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfoInputs.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfo.cs
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.csproj.CoreCompileInputs.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cs
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\bundle\MyWebApp1.styles.css
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp1.bundle.scp.css
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.dll
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\refint\MyWebApp1.dll
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.pdb
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.genruntimeconfig.cache
+C:\Users\60048408\source\repos\MyWebApp1\MyWebApp1\obj\Debug\net6.0\ref\MyWebApp1.dll
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.Development.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.runtime.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.endpoints.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.exe
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.deps.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.runtimeconfig.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.dll
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.pdb
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfoInputs.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfo.cs
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.csproj.CoreCompileInputs.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.MvcApplicationPartsAssemblyInfo.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cs
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\bundle\MyWebApp1.styles.css
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp1.bundle.scp.css
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.development.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\swae.build.ex.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.dll
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\refint\MyWebApp1.dll
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.pdb
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.genruntimeconfig.cache
+D:\NRC\Year 2\Semester 1\Web Devlopment\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\ref\MyWebApp1.dll
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\appsettings.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.runtime.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.staticwebassets.endpoints.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.exe
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.deps.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.runtimeconfig.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.dll
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\bin\Debug\net6.0\MyWebApp1.pdb
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfoInputs.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.AssemblyInfo.cs
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.csproj.CoreCompileInputs.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.RazorAssemblyInfo.cs
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\bundle\MyWebApp1.styles.css
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp1.bundle.scp.css
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\swae.build.ex.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.dll
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\refint\MyWebApp1.dll
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.pdb
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\MyWebApp1.genruntimeconfig.cache
+C:\Users\CarlaCollins\OneDrive - Creagh Concrete Products Limited\Documents\CW2\MyWebApp1\MyWebApp1\obj\Debug\net6.0\ref\MyWebApp1.dll
